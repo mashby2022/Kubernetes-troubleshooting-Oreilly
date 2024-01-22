@@ -272,16 +272,3 @@ After this point, all of your commands will be executed on the default instance.
 
 Same as other communication platforms, Botkube Cloud Microsoft Teams app supports RBAC along with [all mappings](../../configuration/rbac.md#mapping-types).
 However, because of the Microsoft Teams API limitation, for the default team channel the `ChannelName` is always `General`, regardless of the actual localized channel name.
-
-## Limitations
-
-Botkube Cloud Microsoft Teams App currently doesn't support the following features yet:
-
-- Processing states from selected dropdowns, e.g., used for the `kubectl` command builder. In a result, the command builder is not available.
-- Adding 👀 and ✅ reactions to messages indicating process status.
-
-  This seems to be a limitation of the Microsoft Teams platform, however we'll investigate if there is a workaround.
-
-- Sending messages visible only to specific users.
-- Replacing messages with new content, e.g., used for pagination. Currently, a new card is sent as a new message.
-- User mentions in messages. Instead, Botkube app uses plaintext mentions with first and last name.
