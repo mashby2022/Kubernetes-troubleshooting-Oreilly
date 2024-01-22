@@ -17,7 +17,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### kubectl Installation
 
-- [Install kubectl]([#installing-kubectl](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/kubectl%20install.md))
+- [Install kubectl](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/kubectl%20install.md)
 
 ## GKE Cluster
 
