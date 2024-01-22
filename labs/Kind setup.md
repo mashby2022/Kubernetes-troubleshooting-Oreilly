@@ -1,6 +1,6 @@
 # Installation
 
-**NOTE**: Kind does not require kubectl, but you will not be able to perform some of the examples in our docs without it. To install kubectl, see the [upstream kubectl installation docs](https://kubernetes.io/docs/tasks/tools/install-kubectl/).
+**NOTE**: Kind does not require kubectl, but you will not be able to perform some of the examples in our docs without it. To install kubectl, see the [ kubectl installation docs]([https://kubernetes.io/docs/tasks/tools/install-kubectl/](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/kubectl%20install.md)).
 
 If you are a Go developer, you may find the `go install` option convenient. Otherwise, we supply downloadable release binaries, community-managed packages, and a source installation guide.
 
