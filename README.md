@@ -9,7 +9,7 @@ The target audience for this tutorial is an attendee of the O'Reilly Kubernetes 
 ## Labs
 
 * [Kubernetes Cluster Setup](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/K8s%20Cluster%20setup.md)
-* [Botkube Installation](docs/02-client-tools.md)
+* [Botkube Installation](docs/02-client-tools.md](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/Botkube%20install))
 * [Kubectl errors](docs/03-compute-resources.md)
 * [CreateContainerConfigError & CreateContainerError](docs/04-certificate-authority.md)
 * [Prometheus Setup](docs/05-kubernetes-configuration-files.md)
