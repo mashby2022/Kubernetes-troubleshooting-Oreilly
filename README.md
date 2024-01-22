@@ -9,7 +9,7 @@ The target audience for this tutorial is an attendee of the O'Reilly Kubernetes 
 ## Labs
 
 * [Kubernetes Cluster Setup](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/K8s%20Cluster%20setup.md)
-* [Botkube Installation](docs/02-client-tools.md](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/Botkube%20install))
+* [Botkube Installation](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Botkube%20install/Botkube%20installation.md)
 * [Kubectl errors](docs/03-compute-resources.md)
 * [Prometheus Setup](docs/05-kubernetes-configuration-files.md)
 * [Setting up GKE](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/GKE%20setup.md)
