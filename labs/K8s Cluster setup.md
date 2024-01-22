@@ -25,7 +25,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Creating a GKE Cluster
 
-- [Create a GKE Cluster]([#creating-a-gke-cluster](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/GKE%20setup.md))
+- [Create a GKE Cluster](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/GKE%20setup.md)
 
 ## Helm Installation
 
@@ -33,7 +33,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Installing Helm
 
-- [Install Helm]([#installing-helm](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/Helm%20install.md))
+- [Install Helm](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/Helm%20install.md)
 
 
 
