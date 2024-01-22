@@ -6,11 +6,9 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 [Kind (Kubernetes in Docker)](https://kind.sigs.k8s.io/) is a tool for running local Kubernetes clusters using Docker container nodes.
 
-- [Installation](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/7860ec0a3ca6375f4e48e0dfaabf155cbff28d05/labs/Kind%20setup)
-
 ### Kind Installation
 
-- [Install Kind](#installing-kind)
+- [Install Kind](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/7860ec0a3ca6375f4e48e0dfaabf155cbff28d05/labs/Kind%20setup)
 
 
 ## kubectl
@@ -19,7 +17,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### kubectl Installation
 
-- [Install kubectl](#installing-kubectl)
+- [Install kubectl]([#installing-kubectl](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/kubectl%20install.md))
 
 ## GKE Cluster
 
@@ -27,7 +25,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Creating a GKE Cluster
 
-- [Create a GKE Cluster](#creating-a-gke-cluster)
+- [Create a GKE Cluster]([#creating-a-gke-cluster](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/GKE%20setup.md))
 
 ## Helm Installation
 
@@ -35,7 +33,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Installing Helm
 
-- [Install Helm](#installing-helm)
+- [Install Helm]([#installing-helm](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/Helm%20install.md))
 
 
 
