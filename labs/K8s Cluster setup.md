@@ -8,7 +8,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Kind Installation
 
-- [Install Kind](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/7860ec0a3ca6375f4e48e0dfaabf155cbff28d05/labs/Kind%20setup)
+- [Install Kind](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Kind%20setup.md)
 
 
 ## kubectl
