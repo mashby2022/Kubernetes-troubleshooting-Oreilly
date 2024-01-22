@@ -67,7 +67,7 @@ In Autopilot mode, Google manages your cluster configuration, including scaling,
 ## Creating the Cluster
 
 1. In the Google Cloud console, go to the GKE Clusters page.
-   - [Go to Clusters](link-to-gke-clusters-page)
+   - [Go to Clusters](https://console.cloud.google.com/kubernetes/list/overview?_ga=2.39370083.1589486115.1705951100-684263645.1705951088)
 
 2. Click Create.
 
@@ -84,7 +84,7 @@ In Autopilot mode, Google manages your cluster configuration, including scaling,
 ## Deploying a Sample App to Your Cluster
 
 1. In the Google Cloud console, go to the GKE Workloads page.
-   - [Go to Workloads](link-to-gke-workloads-page)
+   - [Go to Workloads](https://console.cloud.google.com/kubernetes/workload/overview?_ga=2.39370083.1589486115.1705951100-684263645.1705951088)
 
 2. Click Deploy.
 
