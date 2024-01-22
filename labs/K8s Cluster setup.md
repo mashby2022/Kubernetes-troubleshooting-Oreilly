@@ -6,7 +6,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 [Kind (Kubernetes in Docker)](https://kind.sigs.k8s.io/) is a tool for running local Kubernetes clusters using Docker container nodes.
 
-- [Installation](#kind-installation)
+- [Installation](lhttps://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/7860ec0a3ca6375f4e48e0dfaabf155cbff28d05/labs/Kind%20setup)
 
 ### Kind Installation
 
