@@ -6,7 +6,7 @@ The **OOMKilled** error in Kubernetes indicates that a container or pod has been
 
 OOMKilled, commonly known as **Exit Code 137**, is a type of error that originated in Linux. The **OOM** (Out of Memory) Manager is a tool on Linux systems that keeps track of memory usage by processes. When the system is about to run out of memory, the **OOM Killer** intervenes and begins killing processes to free up memory and avoid a crash. Its purpose is to free up as much RAM as possible while killing as few processes as feasible.
 
-Kubernetes allows pods to restrict the amount of resources its containers can use on the host computer. A pod can set a memory limit (the maximum amount of memory the container is allowed to use) and a memory request (the minimum amount of memory the container should consume). If a container exceeds its memory limit, it is terminated with an **OOMKilled** status. Moreover, if the total memory usage across all containers or pods on a node exceeds a certain threshold, one or more pods may be terminated.
+Kubernetes allows pods to restrict the amount of resources their containers can use on the host computer. A pod can set a memory limit (the maximum amount of memory the container can use) and a memory request (the minimum amount of memory the container should consume). If a container exceeds its memory limit, it is terminated with an **OOMKilled** status. Moreover, if the total memory usage across all containers or pods on a node exceeds a certain threshold, one or more pods may be terminated.
 
 ## Types of OOMKilled Errors
 
@@ -18,7 +18,7 @@ This error occurs when the sum of pod limits is greater than the available memor
 
 ### OOMKilled: Container Limit Reached
 
-This error is more specific and affects only one pod. When a pod exceeds its configured memory limit, Kubernetes kills it with the error **OOMKilled — Container Limit Reached**. This often results in a container dying, one pod becoming unhealthy, and Kubernetes restarting that pod.
+This error is more specific and affects only one pod. When a pod exceeds its configured memory limit, Kubernetes kills it with the **OOMKilled — Container Limit Reached**error. This often results in a container dying, one pod becoming unhealthy, and Kubernetes restarting that pod.
 
 ## Troubleshooting OOMKilled Errors
 
