@@ -68,7 +68,7 @@ Here's a quick reference for some common `kubectl` commands:
 
 ### Common Errors
 
-### 1. OOMKilled (Out of Memory Killed)
+### 1. [OOMKilled (Out of Memory Killed)](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Kubectl%20lab/OOMKilled/OOMKilled.md)
 
 OOMKilled occurs when a container consumes all available memory resources and is terminated by the kernel. To resolve this issue, you can:
 
@@ -76,7 +76,7 @@ OOMKilled occurs when a container consumes all available memory resources and is
 - Optimize the application's memory usage.
 - Add more resources to the cluster if needed.
 
-### 2. CrashLoopBackOff
+### 2.[CrashLoopBackOff](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Kubectl%20lab/CrashLoopBackOff/CrashLoopBackOff.md)
 
 CrashLoopBackOff indicates that a container repeatedly crashes immediately after starting. To troubleshoot:
 
@@ -84,14 +84,14 @@ CrashLoopBackOff indicates that a container repeatedly crashes immediately after
 - Review the container's configuration and environment variables.
 - Ensure that required resources are available.
 
-### 3. CreateContainerConfigError
+### 3.[CreateContainerConfigError](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Kubectl%20lab/CreateContainerConfigError/CreateContainerConfigError.md)
 
 CreateContainerConfigError occurs when there is an issue with the container's configuration. To address this:
 
 - Verify the container's configuration settings, including image, command, and volume mounts.
 - Check for typos or syntax errors in your YAML files.
 
-### 4. CreateContainerError
+### 4.[CreateContainerError](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Kubectl%20lab/CreateContainerError/CreateContainerError.md)
 
 CreateContainerError occurs when Kubernetes fails to create a container. To resolve this:
 
