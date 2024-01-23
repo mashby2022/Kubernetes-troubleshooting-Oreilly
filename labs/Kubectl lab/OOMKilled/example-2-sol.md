@@ -60,12 +60,6 @@ To troubleshoot the OOMKilled error in this YAML configuration, follow these ste
 - Check the pod's status and logs to ensure that it's running without OOMKilled errors.
 - Use `kubectl describe pod oom-pod-2` and `kubectl logs oom-pod-2` to inspect the pod's status and logs.
 
-**Step 5: Monitor Resource Usage**
-- Continuously monitor the pod's resource usage, especially memory, to ensure it operates within the defined limits.
-
-**Step 6: Performance Optimization (Optional)**
-- If needed, optimize the application's memory usage further to prevent future OOMKilled errors.
-
 By following these troubleshooting steps, you can address the OOMKilled error in your Kubernetes pods caused by insufficient memory limits.
 
 ---
