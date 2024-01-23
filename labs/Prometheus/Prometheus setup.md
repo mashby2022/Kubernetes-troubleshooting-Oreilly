@@ -59,9 +59,3 @@ The following services can also be exposed using NodePort during install using h
 - kube-prometheus-stack-operator
 - kube-state-metrics
 - prometheus-node-exporter
-
-## Appendix and FAQ
-
-[Prometheus Helm Charts](https://github.com/prometheus-community/helm-charts)
-
-```
