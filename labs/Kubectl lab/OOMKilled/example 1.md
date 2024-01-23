@@ -1,4 +1,3 @@
-Sure, here's an exercise in markdown format to identify the type of OOMKilled error in the given YAML:
 
 ### Exercise: Identify the Type of OOMKilled Error
 
