@@ -49,13 +49,12 @@ $ kubectl --namespace monitoring get pods -l release=kind-prometheus
 $ kubectl get all --namespace monitoring
 ```
 
-Step 3: The dashboard can be accessed at:
-
-1. Prometheus: http://<nodeIP>:30000/graph
-2. AlertManager: http://<nodeIP>:32000/graph
 
 The following services can also be exposed using NodePort during install using helm by specifying the NodePort
 
 - kube-prometheus-stack-operator
 - kube-state-metrics
 - prometheus-node-exporter
+
+
+```
