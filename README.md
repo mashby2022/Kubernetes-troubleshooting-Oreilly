@@ -12,6 +12,5 @@ The target audience for this tutorial is an attendee of the O'Reilly Kubernetes 
 * [Botkube Installation](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Botkube%20install/Botkube%20installation.md)
 * [Kubectl errors](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/Kubectl%20lab)
 * [Prometheus Setup](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Prometheus/Prometheus%20setup.md)
-* [Setting up GKE](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/GKE%20setup.md)
 * [Golang Automations in a Multi-Cloud Environment](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/Golang%20Automations%20in%20Multicluster%20environment)
 * [GitOps Lab](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/GitOps%20Tools)
