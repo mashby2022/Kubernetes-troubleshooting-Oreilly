@@ -55,6 +55,3 @@ The following services can also be exposed using NodePort during install using h
 - kube-prometheus-stack-operator
 - kube-state-metrics
 - prometheus-node-exporter
-
-
-```
