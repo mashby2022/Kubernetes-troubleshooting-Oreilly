@@ -12,7 +12,7 @@ spec:
     - name: container-1
       image: nginx:latest
       ports:
-        - containerPort: 8080 # Incorrect port, NGINX default is 80
+        - containerPort: 8080 
 ```
 
 ## Task
